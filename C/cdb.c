@@ -1,5 +1,7 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * *
-* Author: Eduardo Frazão ( http://github.com/fr4z40 )  *
+* Author: Eduardo Frazão                               *
+*    http://github.com/fr4z40                          *
+*    https://bitbucket.org/fr4z40                      *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 /*   Trabalho de Avaliação                             *
 *                                                      *
